@@ -25,7 +25,7 @@
 - 在module的build.gradle中执行compile操作
 
 ```
-compile 'cn.yipianfengye.android:zxing-library:2.2'
+compile 'com.github.parry-li:android_zxing_qrcode:1.1'
 ```
 
 - 在demo Application中执行初始化操作
